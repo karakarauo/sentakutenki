@@ -1,1 +1,2 @@
 Flask==1.1.2
+gunicorn sentakutenki:app -w 4
